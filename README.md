@@ -19,6 +19,7 @@ else:
 ```
 ## Output
 <img width="233" height="261" alt="569638739-3602c545-d266-478b-95f9-fdd341a639bd" src="https://github.com/user-attachments/assets/962b9523-e6c6-43cd-9ced-77b6258c031b" />
+
 ## Result
 Thus the program executed successfully.
 
@@ -49,6 +50,7 @@ print("d:", d)
 ```   
 ## Output
 <img width="226" height="123" alt="569641471-05177b5f-f232-40e1-be48-d8065b394f10" src="https://github.com/user-attachments/assets/cdf41cd3-549b-4418-8ac7-970de2d7418f" />
+
 ## Result
 Thus the program executed successfully
 
@@ -68,6 +70,7 @@ print(char2)
 ```
 ## Output
 <img width="227" height="115" alt="569642537-0f64caf4-0a60-4ad6-b25b-0c8903f78fdb" src="https://github.com/user-attachments/assets/280a4970-8390-4fc5-a828-03dc67fc677a" />
+
 ## Result
 Thus the program executed successfully.
 
@@ -93,6 +96,7 @@ print(x.imag)
 ```
 ## Output
 <img width="218" height="157" alt="569643394-acde85bd-9ab8-4def-a2b1-d2e2b5b41d1c" src="https://github.com/user-attachments/assets/73f94c4a-b048-42e5-9308-64d058d708c0" />
+
 ## Result
 Thus the program executed successfully.
 
@@ -111,5 +115,6 @@ print(men_stepped_on_the_moon)
 ```
 ## Output
 <img width="201" height="103" alt="569644367-39b50fe6-169f-4d17-b917-ca8f589f3402" src="https://github.com/user-attachments/assets/afe99ec4-5e98-4660-8fb7-99ef3d2d33ba" />
+
 ## Result
 Thus the program executed successfully.
